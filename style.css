@@ -46,5 +46,8 @@ html
    font-family: "Oswald", sans-serif;
    font-size: 12rem;
    font-weight: 400;
+   text-transform: uppercase;
+   color: #fff;
+   text-shadow: .3rem, .3rem, .6rem, rgba(0, 0, 0, .5)
 }
 /*End of Section 1*/
