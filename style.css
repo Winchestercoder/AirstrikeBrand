@@ -22,11 +22,13 @@ html
    height: 100vh;
    background: url(images/background.png) no-repeat;
    background-size: cover;
+   position: relative;
 }
 
 .banner
 {
    width: 100%;
    position: absolute;
+   
 }
 /*End of Section 1*/
