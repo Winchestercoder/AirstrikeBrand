@@ -31,5 +31,7 @@ html
    position: absolute;
    top: 20%;
    left: 50%;
+   transform: translateX(-50%);
+   text-align: center;
 }
 /*End of Section 1*/
