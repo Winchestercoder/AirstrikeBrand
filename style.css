@@ -73,6 +73,7 @@ html
    font-size: 2rem;
    text-transform: uppercase;
    border-radius: 3rem;
-   
+   border: .1rem solid #6e3b79;
+
 }
 /*End of Section 1*/
