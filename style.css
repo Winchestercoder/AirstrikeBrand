@@ -68,6 +68,7 @@ html
 {
    width: 30rem;
    height: 6rem;
-   background: linear-gradient(to right, #9b0e0e, #000000);
+   background: linear-gradient(to right, #7d5783, #4e2955);
+   color: #fff;
 }
 /*End of Section 1*/
