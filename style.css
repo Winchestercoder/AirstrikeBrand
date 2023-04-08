@@ -50,6 +50,7 @@ html
    color: #fff;
    text-shadow: .3rem, .3rem, .6rem, rgba(0, 0, 0, .5);
    position: absolute;
+   width: 100%;
 }
 
 .banner-paragraph
