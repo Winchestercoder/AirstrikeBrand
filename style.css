@@ -51,6 +51,8 @@ html
    text-shadow: .3rem, .3rem, .6rem, rgba(0, 0, 0, .5);
    position: absolute;
    width: 100%;
+   display: flex;
+   justify-content: center;
 }
 
 .banner-paragraph
