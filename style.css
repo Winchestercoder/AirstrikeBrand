@@ -54,6 +54,7 @@ html
    width: 100%;
    display: flex;
    justify-content: center;
+   transform: translateZ(8rem);
 }
 
 .banner-paragraph
