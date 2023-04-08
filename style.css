@@ -76,6 +76,7 @@ html
    border: .1rem solid #6e3b79;
    box-shadow: 1rem 2rem  3rem rgba(59, 59, 59, 0.5);
    text-shadow: .6rem .3rem .2rem rgba(0, 0, 0, .4);
+   cursor: pointer;
 
 }
 /*End of Section 1*/
