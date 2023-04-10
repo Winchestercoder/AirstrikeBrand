@@ -165,6 +165,7 @@ html
    position: absolute;
    top: 0;
    left: -100%;
+   transform: skewX(-30deg);
 }
 
 @keyframes fadeAnimation {
