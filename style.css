@@ -168,6 +168,12 @@ html
    transform: skewX(-30deg);
 }
 
+.banner-btn:hover::before
+{
+   left: 100;
+   
+}
+
 @keyframes fadeAnimation {
 0%
    {
