@@ -150,6 +150,8 @@ html
    text-shadow: .6rem .3rem .2rem rgba(0, 0, 0, .4);
    cursor: pointer;
    opacity: 0;
+   visibility: hidden;
+   animation: fadeAnimation 1s 2s forwards;
 }
 
 @keyframes fadeAnimation {
