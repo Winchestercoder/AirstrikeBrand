@@ -40,6 +40,7 @@ html
    margin-bottom: 4rem;
    height: 20rem;
    perspective: 50;
+   overflow: hidden;
 }
 
 .banner-heading span
