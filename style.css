@@ -153,8 +153,7 @@ html
    visibility: hidden;
    animation: fadeAnimation 1s 2s forwards;
    position: relative;
-   top: 0;
-   left: -100%;
+   
 }
 
 .banner-btn::before
@@ -164,6 +163,8 @@ html
    height: 100%;
    background: linear-gradient(to right, transparent, #fff, transparent);
    position: absolute;
+   top: 0;
+   left: -100%;
 }
 
 @keyframes fadeAnimation {
