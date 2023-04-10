@@ -62,26 +62,26 @@ html
 
 .heading-1
 {
-   animation: animationHeading 12s 3s infinite;
+   animation: animateHeading 12s 3s infinite;
 }
 
 .heading-2
 {
-   animation: animationHeading 12s 6s infinite;
+   animation: animateHeading 12s 6s infinite;
 }
 
 .heading-3
 {
-   animation: animationHeading 12s 9s infinite;
+   animation: animateHeading 12s 9s infinite;
 }
 
 .heading-4
 {
-   animation: animationHeading 12s 12s infinite;
+   animation: animateHeading 12s 12s infinite;
 }
 
 
-@keyframes animateHeading 
+@keyframes animateHeading  
 {
    0%
    {
