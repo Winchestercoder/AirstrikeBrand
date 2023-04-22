@@ -27,6 +27,13 @@ html
    z-index: 10;
    padding: 3rem;
 }
+
+.logo
+{
+   position: absolute;
+   top: 1.5rem;
+   left: 4rem;
+}
 /*End of Navbar*/
 
 /*Section 1*/
