@@ -34,6 +34,12 @@ html
    top: 1.5rem;
    left: 4rem;
 }
+
+.logo a 
+{
+   font-family: 'UnifrakturCook', sans-serif;
+}
+
 /*End of Navbar*/
 
 /*Section 1*/
