@@ -38,6 +38,9 @@ html
 .logo a 
 {
    font-family: 'UnifrakturCook', sans-serif;
+   font-size: 2.5rem;
+   color: #eee;
+   letter-spacing: .1rem;
 }
 
 /*End of Navbar*/
