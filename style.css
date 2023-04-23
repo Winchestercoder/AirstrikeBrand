@@ -51,6 +51,11 @@ html
    color: #5538a7;
 }
 
+.nav-list
+{
+   display: none;
+}
+
 /*End of Navbar*/
 
 /*Section 1*/
