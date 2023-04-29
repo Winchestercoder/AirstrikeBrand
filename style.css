@@ -65,6 +65,8 @@ html
    height: 4rem;
    background-color: #eee;
    position: fixed;
+   z-index: 100;
+
 }
 /*End of Menu*/
 
