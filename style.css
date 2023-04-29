@@ -58,7 +58,14 @@ html
 
 /*End of Navbar*/
 
-
+/*Menu*/
+.menu
+{
+   width: 4rem;
+   height: 4rem;
+   background-color: #eee;
+}
+/*End of Menu*/
 
 /*Section 1*/
 .section-1
