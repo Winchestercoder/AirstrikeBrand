@@ -26,6 +26,13 @@ html
    top: 0;  
    z-index: 10;
    padding: 3rem;
+   transition: height 0.5s;
+}
+
+
+.navbar.change
+{
+   height: 100vh;
 
 }
 
