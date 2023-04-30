@@ -68,6 +68,13 @@ html
    right: 4rem;
    z-index: 100;
 }
+
+.line
+{
+  width: 100%;
+  height: 0.2rem;
+  background-color: #eee;
+}
 /*End of Menu*/
 
 /*Section 1*/
