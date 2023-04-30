@@ -64,11 +64,11 @@ align-items: center;
 
 .nav-link
 {
-  
+  font-family: "Rakkas", sans-serif;
+  font-size: 4rem;
+  letter-spacing: .3rem;
+  color: #eee;
 }
-
-/*Apologies for calling elements classes*/
-
 /*End of Navbar*/
 
 /*Menu*/
