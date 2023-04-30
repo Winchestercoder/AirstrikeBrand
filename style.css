@@ -79,6 +79,17 @@ html
   height: 0.2rem;
   background-color: #eee;
 }
+
+.line-1
+{
+  width: 50%;
+}
+
+.line-3
+{
+  width: 50%;
+}
+/*
 /*End of Menu*/
 
 /*Section 1*/
