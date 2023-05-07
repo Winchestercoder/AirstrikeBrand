@@ -4,6 +4,6 @@ const navbar = document.querySelector('.navbar')
 
 menu.addEventListener('click', () => 
 {
-   navbar.classList.toggle('change')
+    navbar.classList.toggle('change')
 })
 //End of Navbar
