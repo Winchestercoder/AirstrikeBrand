@@ -119,8 +119,8 @@ transition: all 0.2s;
 
 .line-1
 {
-  width: 50%;
-  margin-left: auto;
+   width: 50%;
+   transform: translate(100%, 1rem);
 }
 
 .line-3
