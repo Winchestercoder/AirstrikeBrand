@@ -29,6 +29,16 @@ html
    transition: height 0.5s;
 }
 
+@keyframes animateNavbar 
+{
+   0%
+   {
+      top: -8rem;
+   }
+
+
+}
+
 
 .navbar.change
 {
