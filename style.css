@@ -27,7 +27,7 @@ html
    z-index: 10;
    padding: 3rem;
    transition: height 0.5s;
-   animation: animateNavbar 1s 0.5s;
+   animation: animateNavbar 1s 0.5s forwards;
 }
 
 @keyframes animateNavbar 
